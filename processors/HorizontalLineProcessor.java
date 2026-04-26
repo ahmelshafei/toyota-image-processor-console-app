@@ -1,3 +1,5 @@
+package processors;
+
 import java.util.function.Predicate;
 
 import core.ConnectedObjectCounter;
